@@ -1,2 +1,2 @@
 # pagina_incialNetflix
-Essa é uma cópia da página inicial da Netflix onde é apresentado o catálogo de filmes. Essa página foi desenvolvida em HTML, CSS, JS e jQuery
+Esse é um código inspirado na página inicial da Netflix, foi desenvolvido o front de uma plataforma de streaming onde é apresentado o catálogo de filmes. Essa página foi desenvolvida em HTML, CSS, JS e jQuery
